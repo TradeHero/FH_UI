@@ -1,0 +1,18 @@
+466	Akhisar Belediye
+6116	Balikesirspor
+470	Besiktas
+464	Bursaspor
+6257	Istanbul Basaksehir
+468	Caykur Rizespor
+472	Eskisehirspor
+459	Fenerbahce
+476	Galatasaray
+471	Gaziantepspor
+461	Genclerbirligi
+460	Karabukspor
+467	Kasimpasa
+463	Kayseri Erciyesspor
+473	Konyaspor
+1533	Mersin I.Y.
+465	Sivasspor
+475	Trabzonspor

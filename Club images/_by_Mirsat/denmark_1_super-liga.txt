@@ -1,0 +1,14 @@
+136	AaB Aalborg
+842	AGF Aarhus
+839	Brondby
+133	Esbjerg
+138	FC Copenhagen
+1022	Hobro
+840	Midtjylland
+135	Nordsjaelland
+139	Odense BK
+140	Randers
+1021	Silkeborg
+134	Sonderjyske
+841	Vestsjaelland
+137	Viborg

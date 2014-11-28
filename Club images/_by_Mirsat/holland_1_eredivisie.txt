@@ -1,0 +1,18 @@
+5932	ADO Den Haag
+3120	Ajax
+827	AZ Alkmaar
+5987	Cambuur
+832	Dordrecht
+834	Excelsior
+5702	Feyenoord
+5972	Go Ahead Eagles
+801	Groningen
+828	Heerenveen
+6001	NAC Breda
+4137	PSV Eindhoven
+5933	SC Heracles
+5956	Twente
+6033	Utrecht
+802	Vitesse
+5692	Willem II
+5774	Zwolle

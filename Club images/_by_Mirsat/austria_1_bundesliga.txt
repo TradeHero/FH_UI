@@ -1,0 +1,11 @@
+262	Admira
+264	Altach
+255	Austria Vienna
+1402	Grodig
+261	Magna Wiener Neustadt
+258	Rapid Vienna
+260	Red Bull Salzburg
+257	Ried
+256	Sturm Graz
+1401	Wacker Innsbruck
+259	Wolfsberger AC

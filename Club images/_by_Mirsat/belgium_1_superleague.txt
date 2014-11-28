@@ -1,0 +1,16 @@
+5213	AA Gent
+145	Anderlecht
+5215	Cercle Brugge
+5359	Charleroi
+144	FC Brugge
+146	Genk
+837	Kortrijk
+5300	Lierse
+142	Lokeren
+5265	Mechelen
+1301	Mouscron-Peruwelz
+838	Oostende
+143	Standard Liege
+5262	Waasland Beveren
+5322	Westerlo
+141	Zulte Waregem

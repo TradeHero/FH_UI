@@ -1,0 +1,12 @@
+24	Aberdeen
+250	Celtic
+5768	Dundee
+23	Dundee Utd
+3171	Hamilton
+248	Inverness CT
+253	Kilmarnock
+247	Motherwell
+252	Partick Thistle
+25	Ross County
+249	St. Johnstone
+254	St. Mirren

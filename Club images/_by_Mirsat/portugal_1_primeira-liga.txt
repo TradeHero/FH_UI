@@ -1,0 +1,18 @@
+1056	Academica
+1054	Arouca
+1053	Belenenses
+308	Benfica
+5709	Boavista
+392	Estoril Praia
+395	FC Porto
+393	Gil Vicente
+396	Maritimo
+2688	Moreirense
+394	Nacional
+1055	Pacos Ferreira
+2686	Penafiel
+397	Rio Ave
+1060	Sporting Braga
+391	Sporting Lisboa
+1059	Vitoria Guimaraes
+1057	Vitoria Setubal

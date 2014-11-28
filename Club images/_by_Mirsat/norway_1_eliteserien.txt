@@ -1,0 +1,16 @@
+527	Aalesund
+945	Bodo/Glimt
+528	Brann Bergen
+946	Haugesund
+530	Lillestrøm
+537	Molde
+529	Odd Grenland
+540	Rosenborg
+539	Sandnes Ulf
+536	Sarpsborg
+533	Sogndal
+535	Stabaek
+534	Start
+538	Stromsgodset
+531	Vålerenga
+532	Viking

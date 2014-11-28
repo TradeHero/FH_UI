@@ -1,0 +1,23 @@
+290	1860 Munchen
+300	Arminia Bielefeld
+297	Bochum
+296	Cottbus
+299	Dynamo Dresden
+281	Eintracht Braunschweig
+292	Erzgebirge Aue
+287	Fortuna Dusseldorf
+847	FSV Frankfurt
+845	Greuther Furth
+1119	Heidenheim
+295	Ingolstadt
+288	Kaiserslautern
+298	Karlsruhe
+848	Koln
+844	Nurnberg
+293	Paderborn
+1413	RB Leipzig
+846	Sandhausen
+291	St. Pauli
+1409	SV Darmstadt 98
+289	Union Berlin
+294	VfR Aalen

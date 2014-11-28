@@ -1,0 +1,80 @@
+3068	Alcoyano
+2575	Almeria II
+3077	Arroyo
+2740	Athletic Bilbao II
+4263	Atletico Astorga CF
+3063	Atletico Baleares
+3061	Atletico Madrid II
+3072	Badalona
+3060	Barakaldo
+3887	Betis II
+2573	Burgos
+3082	Cacereno
+3083	Cadiz
+2753	CD Guadalajara
+2734	Celta Vigo II
+2736	Compostela
+3056	Conquense
+3076	Cordoba B
+2937	Cornella
+2577	Coruxo
+3049	Cultural Leonesa
+3081	El Palo
+2746	Elche II
+3857	Eldense
+3069	Espanyol II
+2749	FC Cartagena
+3045	Ferrol
+3052	Fuenlabrada
+2572	Getafe II
+3074	Gimnastic Tarragona
+2747	Granada II
+3051	Guijuelo
+401	Hercules
+3065	Hospitalet
+2741	Huesca
+3075	Huracan
+1475	La Hoya Lorca
+2751	La Roda
+4789	Langreo
+3057	Las Palmas II
+6831	Lealtad
+3821	Leioa SD
+3078	Linense
+3073	Lleida
+2748	Lucena
+3853	Mallorca II
+2963	Marbella
+3048	Marino de Luanco
+2576	Melilla
+414	Murcia
+3064	Olimpic de Xativa
+2959	Rayo Vallecano II
+2737	Real Aviles
+418	Real Jaen
+399	Real Madrid II
+6318	Real Oviedo
+2571	Real Sociedad II
+3043	Real Union
+3822	Real Valladolid B
+2743	Reus
+3091	San Roque Lepe
+3067	Sant Andreu
+3053	SD Amorebieta
+3058	Sestao River
+3080	Sevilla II
+4787	Socuellamos
+2574	Sporting Gijon II
+3055	Toledo
+3895	Trival Valderas
+2733	Tropezon
+2742	Tudelano
+3886	UCAM Murcia
+2735	UD Logrones
+3823	UD Somozas
+3070	UE Olot
+3066	Valencia II
+6832	Villanovense
+2744	Villarreal II
+2738	Zamora
+3084	Zaragoza II

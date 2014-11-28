@@ -1,0 +1,20 @@
+218	Amkar Perm
+226	Anzhi Makhachkala
+2862	Arsenal Tula
+223	CSKA Moscow
+222	Dinamo Moscow
+227	FC Rostov
+225	Krasnodar
+215	Krylya Sovetov
+214	Kuban
+228	Lokomotiv Moscow
+2861	Mordovia Saransk
+216	Rubin Kazan
+217	Spartak Moscow
+219	Terek Grozny
+224	Tom Tomsk
+2866	Torpedo Moscow
+2871	Ufa
+213	Ural Servaldovsk
+220	Volga NN
+221	Zenit St Petersburg

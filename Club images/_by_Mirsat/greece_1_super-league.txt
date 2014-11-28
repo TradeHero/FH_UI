@@ -1,0 +1,18 @@
+I455	Asteras Tripolis
+454	Atromitos
+5927	Ergotelis
+6006	Kallonis
+1098	Kerkyra
+6338	Levadiakos
+1290	Niki Volou
+6084	OFI Crete
+5718	Olympiakos
+456	Panatinaikos
+6324	Panetolikos
+6319	Panionios
+6862	Panthrakikos
+453	PAOK
+6323	PAS Giannina
+6320	Platanias
+3551	Veria
+3552	Xanthi

@@ -1,0 +1,12 @@
+1159	Busan IPark
+1157	Chunnam Dragons
+1155	Gyeongnam
+1152	Incheon United
+1156	Jeju
+89	Jeonbuk
+90	Pohang Steelers
+1153	Sangju Sangmu
+1160	Seongnam Ilhwa
+544	Seoul
+1154	Suwon BlueWings
+1158	Ulsan Hyundai Horang-i

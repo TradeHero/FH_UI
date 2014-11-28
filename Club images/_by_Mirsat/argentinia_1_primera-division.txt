@@ -1,0 +1,20 @@
+376	Arsenal de Sarandi
+363	Atletico Rafaela
+1241	Banfield
+375	Belgrano Cordoba
+377	Boca Juniors
+1231	Defensa y Justicia
+365	Estudiantes LP
+374	Gimnasia LP
+362	Godoy Cruz
+1229	Independiente
+378	Lanus
+367	Newells Old Boys
+361	Olimpo Bahia Blanca
+373	Quilmes
+371	Racing Club
+380	River Plate
+372	Rosario Central
+366	San Lorenzo
+364	Tigre
+369	Velez Sarsfield

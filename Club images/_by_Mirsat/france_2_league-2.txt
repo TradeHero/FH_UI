@@ -1,0 +1,26 @@
+177	Ajaccio
+1	Angers
+16	Arles Avignon
+3	Auxerre
+5	Bastia CA
+1417	Brest
+1416	Caen
+8	Chamois Niort
+10	Chateauroux
+6	Clermont Foot
+7	Creteil
+9	Dijon
+1638	Gazelec Ajaccio
+11	Istres
+13	Laval
+4	Le Havre
+12	Lens
+1623	Luzenac
+18	Metz
+14	Nancy
+2	Nimes
+1622	Orleans
+191	Sochaux
+15	Tours
+17	Troyes
+192	Valenciennes

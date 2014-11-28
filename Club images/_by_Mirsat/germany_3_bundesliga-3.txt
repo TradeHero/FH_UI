@@ -1,0 +1,26 @@
+300	Arminia Bielefeld
+1407	Borussia Dortmund II
+2669	Burghausen
+600	Chemnitzer
+296	Cottbus
+1414	Duisburg
+299	Dynamo Dresden
+1408	Elversberg
+2713	Erfurt
+1699	Fortuna Koln
+2668	Hallescher
+1411	Hansa Rostock
+1119	Heidenheim
+1410	Holstein Kiel
+1404	Jahn Regensburg
+1680	Mainz 05 II
+1415	Munster
+1405	Osnabruck
+1413	RB Leipzig
+2712	Saarbrucken
+1832	Sonnenhof Grossaspach
+1120	Stuttgarter Kickers
+1409	SV Darmstadt 98
+1403	Unterhaching
+1406	VfB Stuttgart II
+1412	Wehen
