@@ -1,4 +1,4 @@
-290	1860 Munchen
+290	1860 Munched
 300	Arminia Bielefeld
 297	Bochum
 296	Cottbus
